@@ -1,6 +1,5 @@
 # SelToCal
-Small linux program to turn any selected text directly into a Google Calendar Event
-![logo][logo]
+![logo][logo] Small linux program to turn any selected text directly into a Google Calendar Event
 [logo]: https://github.com/kcg/SelToCal/blob/master/icon_48.png "Logo"
 
 ###Example:

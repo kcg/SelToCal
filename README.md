@@ -1,5 +1,6 @@
-# SelToCal
+![logo][logo]# SelToCal
 Small linux program to turn any selected text directly into a Google Calendar Event
+[logo]: https://github.com/kcg/SelToCal/blob/master/icon_48.png "Logo"
 
 ###Example:
 Someone writes you an email or some other message including *"Hey, let's meet next Friday at 2pm in Cafe Bellevue"*.
